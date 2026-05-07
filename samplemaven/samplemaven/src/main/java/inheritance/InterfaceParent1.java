@@ -1,0 +1,7 @@
+package inheritance;
+
+public interface InterfaceParent1 {
+	public void print();
+	
+	
+}
