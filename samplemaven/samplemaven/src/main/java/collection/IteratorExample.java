@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class IteratorExample {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 Set <String> s=new HashSet <String>();
 s.add("red");
 s.add("yellow");
